@@ -1,0 +1,980 @@
+{
+  "version": 1,
+  "repositoryUrl": "https://github.com/UteamUP/uteamup_wallpapers",
+  "desktopTablet": [
+    {
+      "id": "desktoptablet-uteamup-dark-abstract-aurora",
+      "name": "Abstract Aurora",
+      "theme": "dark",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Dark_Abstract_Aurora.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Dark_Abstract_Aurora.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-dark-abstract-northern-lights",
+      "name": "Abstract Northern Lights",
+      "theme": "dark",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Dark_Abstract_Northern_Lights.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Dark_Abstract_Northern_Lights.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-dark-abstract-prism",
+      "name": "Abstract Prism",
+      "theme": "dark",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Dark_Abstract_Prism.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Dark_Abstract_Prism.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-dark-earth-abstract",
+      "name": "Earth Abstract",
+      "theme": "dark",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Dark_Earth_Abstract.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Dark_Earth_Abstract.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-dark-earths-core-abstract",
+      "name": "Earths Core Abstract",
+      "theme": "dark",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Dark_Earths_Core_Abstract.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Dark_Earths_Core_Abstract.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-dark-esja",
+      "name": "Esja",
+      "theme": "dark",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Dark_Esja.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Dark_Esja.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-dark-esja2",
+      "name": "Esja2",
+      "theme": "dark",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Dark_Esja2.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Dark_Esja2.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-dark-esja3",
+      "name": "Esja3",
+      "theme": "dark",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Dark_Esja3.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Dark_Esja3.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-dark-galaxy-milky-way-abstract",
+      "name": "Galaxy Milky Way Abstract",
+      "theme": "dark",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Dark_Galaxy_Milky_Way_Abstract.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Dark_Galaxy_Milky_Way_Abstract.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-dark-godafoss",
+      "name": "Godafoss",
+      "theme": "dark",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Dark_Godafoss.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Dark_Godafoss.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-dark-ground-abstract",
+      "name": "Ground Abstract",
+      "theme": "dark",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Dark_Ground_Abstract.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Dark_Ground_Abstract.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-dark-jokulsarlon",
+      "name": "Jokulsarlon",
+      "theme": "dark",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Dark_Jokulsarlon.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Dark_Jokulsarlon.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-dark-kerlingarfjoll",
+      "name": "Kerlingarfjoll",
+      "theme": "dark",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Dark_Kerlingarfjoll.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Dark_Kerlingarfjoll.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-dark-kirkjufell",
+      "name": "Kirkjufell",
+      "theme": "dark",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Dark_Kirkjufell.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Dark_Kirkjufell.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-dark-kirkjufell2",
+      "name": "Kirkjufell2",
+      "theme": "dark",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Dark_Kirkjufell2.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Dark_Kirkjufell2.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-dark-kirkjufell3",
+      "name": "Kirkjufell3",
+      "theme": "dark",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Dark_Kirkjufell3.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Dark_Kirkjufell3.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-dark-land-abstract",
+      "name": "Land Abstract",
+      "theme": "dark",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Dark_Land_Abstract.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Dark_Land_Abstract.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-dark-landmannalaugar",
+      "name": "Landmannalaugar",
+      "theme": "dark",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Dark_Landmannalaugar.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Dark_Landmannalaugar.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-dark-reynisfjara",
+      "name": "Reynisfjara",
+      "theme": "dark",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Dark_Reynisfjara.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Dark_Reynisfjara.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-dark-skies-abstract",
+      "name": "Skies Abstract",
+      "theme": "dark",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Dark_Skies_Abstract.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Dark_Skies_Abstract.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-dark-space-abstract",
+      "name": "Space Abstract",
+      "theme": "dark",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Dark_Space_Abstract.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Dark_Space_Abstract.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-dark-thorsmork",
+      "name": "Thorsmork",
+      "theme": "dark",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Dark_Thorsmork.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Dark_Thorsmork.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-dark",
+      "name": "Classic",
+      "theme": "dark",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Dark.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Dark.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-dark2",
+      "name": "Classic 2",
+      "theme": "dark",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Dark2.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Dark2.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-dark3",
+      "name": "Classic 3",
+      "theme": "dark",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Dark3.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Dark3.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-dark4",
+      "name": "Classic 4",
+      "theme": "dark",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Dark4.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Dark4.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-dark5",
+      "name": "Classic 5",
+      "theme": "dark",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Dark5.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Dark5.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-light-abstract-aurora",
+      "name": "Abstract Aurora",
+      "theme": "light",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Light_Abstract_Aurora.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Light_Abstract_Aurora.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-light-abstract-northern-lights",
+      "name": "Abstract Northern Lights",
+      "theme": "light",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Light_Abstract_Northern_Lights.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Light_Abstract_Northern_Lights.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-light-abstract-prism",
+      "name": "Abstract Prism",
+      "theme": "light",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Light_Abstract_Prism.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Light_Abstract_Prism.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-light-earth-abstract",
+      "name": "Earth Abstract",
+      "theme": "light",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Light_Earth_Abstract.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Light_Earth_Abstract.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-light-earths-core-abstract",
+      "name": "Earths Core Abstract",
+      "theme": "light",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Light_Earths_Core_Abstract.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Light_Earths_Core_Abstract.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-light-esja",
+      "name": "Esja",
+      "theme": "light",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Light_Esja.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Light_Esja.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-light-esja2",
+      "name": "Esja2",
+      "theme": "light",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Light_Esja2.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Light_Esja2.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-light-esja3",
+      "name": "Esja3",
+      "theme": "light",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Light_Esja3.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Light_Esja3.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-light-galaxy-milky-way-abstract",
+      "name": "Galaxy Milky Way Abstract",
+      "theme": "light",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Light_Galaxy_Milky_Way_Abstract.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Light_Galaxy_Milky_Way_Abstract.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-light-godafoss",
+      "name": "Godafoss",
+      "theme": "light",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Light_Godafoss.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Light_Godafoss.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-light-ground-abstract",
+      "name": "Ground Abstract",
+      "theme": "light",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Light_Ground_Abstract.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Light_Ground_Abstract.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-light-jokulsarlon",
+      "name": "Jokulsarlon",
+      "theme": "light",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Light_Jokulsarlon.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Light_Jokulsarlon.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-light-kerlingarfjoll",
+      "name": "Kerlingarfjoll",
+      "theme": "light",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Light_Kerlingarfjoll.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Light_Kerlingarfjoll.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-light-kirkjufell",
+      "name": "Kirkjufell",
+      "theme": "light",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Light_Kirkjufell.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Light_Kirkjufell.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-light-kirkjufell2",
+      "name": "Kirkjufell2",
+      "theme": "light",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Light_Kirkjufell2.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Light_Kirkjufell2.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-light-kirkjufell3",
+      "name": "Kirkjufell3",
+      "theme": "light",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Light_Kirkjufell3.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Light_Kirkjufell3.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-light-land-abstract",
+      "name": "Land Abstract",
+      "theme": "light",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Light_Land_Abstract.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Light_Land_Abstract.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-light-landmannalaugar",
+      "name": "Landmannalaugar",
+      "theme": "light",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Light_Landmannalaugar.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Light_Landmannalaugar.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-light-reynisfjara",
+      "name": "Reynisfjara",
+      "theme": "light",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Light_Reynisfjara.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Light_Reynisfjara.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-light-skies-abstract",
+      "name": "Skies Abstract",
+      "theme": "light",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Light_Skies_Abstract.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Light_Skies_Abstract.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-light-space-abstract",
+      "name": "Space Abstract",
+      "theme": "light",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Light_Space_Abstract.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Light_Space_Abstract.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-light-thorsmork",
+      "name": "Thorsmork",
+      "theme": "light",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Light_Thorsmork.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Light_Thorsmork.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-light",
+      "name": "Classic",
+      "theme": "light",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Light.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Light.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-light2",
+      "name": "Classic 2",
+      "theme": "light",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Light2.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Light2.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-light3",
+      "name": "Classic 3",
+      "theme": "light",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Light3.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Light3.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-light4",
+      "name": "Classic 4",
+      "theme": "light",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Light4.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Light4.webp"
+    },
+    {
+      "id": "desktoptablet-uteamup-light5",
+      "name": "Classic 5",
+      "theme": "light",
+      "width": 1586,
+      "height": 992,
+      "originalPath": "Desktop-Tablet/Uteamup_Light5.png",
+      "previewPath": "Previews/Desktop-Tablet/Uteamup_Light5.webp"
+    }
+  ],
+  "mobile": [
+    {
+      "id": "mobile-uteamup-dark-abstract-aurora-mobile",
+      "name": "Abstract Aurora",
+      "theme": "dark",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Dark_Abstract_Aurora_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Dark_Abstract_Aurora_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-dark-abstract-northern-lights-mobile",
+      "name": "Abstract Northern Lights",
+      "theme": "dark",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Dark_Abstract_Northern_Lights_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Dark_Abstract_Northern_Lights_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-dark-abstract-prism-mobile",
+      "name": "Abstract Prism",
+      "theme": "dark",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Dark_Abstract_Prism_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Dark_Abstract_Prism_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-dark-earth-abstract-mobile",
+      "name": "Earth Abstract",
+      "theme": "dark",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Dark_Earth_Abstract_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Dark_Earth_Abstract_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-dark-earths-core-abstract-mobile",
+      "name": "Earths Core Abstract",
+      "theme": "dark",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Dark_Earths_Core_Abstract_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Dark_Earths_Core_Abstract_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-dark-esja-mobile",
+      "name": "Esja",
+      "theme": "dark",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Dark_Esja_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Dark_Esja_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-dark-esja2-mobile",
+      "name": "Esja2",
+      "theme": "dark",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Dark_Esja2_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Dark_Esja2_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-dark-esja3-mobile",
+      "name": "Esja3",
+      "theme": "dark",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Dark_Esja3_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Dark_Esja3_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-dark-galaxy-milky-way-abstract-mobile",
+      "name": "Galaxy Milky Way Abstract",
+      "theme": "dark",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Dark_Galaxy_Milky_Way_Abstract_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Dark_Galaxy_Milky_Way_Abstract_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-dark-godafoss-mobile",
+      "name": "Godafoss",
+      "theme": "dark",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Dark_Godafoss_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Dark_Godafoss_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-dark-ground-abstract-mobile",
+      "name": "Ground Abstract",
+      "theme": "dark",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Dark_Ground_Abstract_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Dark_Ground_Abstract_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-dark-jokulsarlon-mobile",
+      "name": "Jokulsarlon",
+      "theme": "dark",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Dark_Jokulsarlon_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Dark_Jokulsarlon_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-dark-kerlingarfjoll-mobile",
+      "name": "Kerlingarfjoll",
+      "theme": "dark",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Dark_Kerlingarfjoll_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Dark_Kerlingarfjoll_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-dark-kirkjufell-mobile",
+      "name": "Kirkjufell",
+      "theme": "dark",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Dark_Kirkjufell_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Dark_Kirkjufell_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-dark-kirkjufell2-mobile",
+      "name": "Kirkjufell2",
+      "theme": "dark",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Dark_Kirkjufell2_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Dark_Kirkjufell2_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-dark-kirkjufell3-mobile",
+      "name": "Kirkjufell3",
+      "theme": "dark",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Dark_Kirkjufell3_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Dark_Kirkjufell3_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-dark-land-abstract-mobile",
+      "name": "Land Abstract",
+      "theme": "dark",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Dark_Land_Abstract_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Dark_Land_Abstract_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-dark-landmannalaugar-mobile",
+      "name": "Landmannalaugar",
+      "theme": "dark",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Dark_Landmannalaugar_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Dark_Landmannalaugar_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-dark-mobile",
+      "name": "Mobile",
+      "theme": "dark",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Dark_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Dark_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-dark-reynisfjara-mobile",
+      "name": "Reynisfjara",
+      "theme": "dark",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Dark_Reynisfjara_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Dark_Reynisfjara_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-dark-skies-abstract-mobile",
+      "name": "Skies Abstract",
+      "theme": "dark",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Dark_Skies_Abstract_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Dark_Skies_Abstract_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-dark-space-abstract-mobile",
+      "name": "Space Abstract",
+      "theme": "dark",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Dark_Space_Abstract_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Dark_Space_Abstract_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-dark-thorsmork-mobile",
+      "name": "Thorsmork",
+      "theme": "dark",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Dark_Thorsmork_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Dark_Thorsmork_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-dark2-mobile",
+      "name": "Classic 2",
+      "theme": "dark",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Dark2_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Dark2_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-dark3-mobile",
+      "name": "Classic 3",
+      "theme": "dark",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Dark3_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Dark3_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-dark4-mobile",
+      "name": "Classic 4",
+      "theme": "dark",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Dark4_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Dark4_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-dark5-mobile",
+      "name": "Classic 5",
+      "theme": "dark",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Dark5_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Dark5_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-light-abstract-aurora-mobile",
+      "name": "Abstract Aurora",
+      "theme": "light",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Light_Abstract_Aurora_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Light_Abstract_Aurora_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-light-abstract-northern-lights-mobile",
+      "name": "Abstract Northern Lights",
+      "theme": "light",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Light_Abstract_Northern_Lights_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Light_Abstract_Northern_Lights_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-light-abstract-prism-mobile",
+      "name": "Abstract Prism",
+      "theme": "light",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Light_Abstract_Prism_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Light_Abstract_Prism_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-light-earth-abstract-mobile",
+      "name": "Earth Abstract",
+      "theme": "light",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Light_Earth_Abstract_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Light_Earth_Abstract_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-light-earths-core-abstract-mobile",
+      "name": "Earths Core Abstract",
+      "theme": "light",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Light_Earths_Core_Abstract_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Light_Earths_Core_Abstract_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-light-esja-mobile",
+      "name": "Esja",
+      "theme": "light",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Light_Esja_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Light_Esja_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-light-esja2-mobile",
+      "name": "Esja2",
+      "theme": "light",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Light_Esja2_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Light_Esja2_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-light-esja3-mobile",
+      "name": "Esja3",
+      "theme": "light",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Light_Esja3_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Light_Esja3_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-light-galaxy-milky-way-abstract-mobile",
+      "name": "Galaxy Milky Way Abstract",
+      "theme": "light",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Light_Galaxy_Milky_Way_Abstract_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Light_Galaxy_Milky_Way_Abstract_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-light-godafoss-mobile",
+      "name": "Godafoss",
+      "theme": "light",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Light_Godafoss_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Light_Godafoss_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-light-ground-abstract-mobile",
+      "name": "Ground Abstract",
+      "theme": "light",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Light_Ground_Abstract_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Light_Ground_Abstract_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-light-jokulsarlon-mobile",
+      "name": "Jokulsarlon",
+      "theme": "light",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Light_Jokulsarlon_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Light_Jokulsarlon_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-light-kerlingarfjoll-mobile",
+      "name": "Kerlingarfjoll",
+      "theme": "light",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Light_Kerlingarfjoll_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Light_Kerlingarfjoll_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-light-kirkjufell-mobile",
+      "name": "Kirkjufell",
+      "theme": "light",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Light_Kirkjufell_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Light_Kirkjufell_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-light-kirkjufell2-mobile",
+      "name": "Kirkjufell2",
+      "theme": "light",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Light_Kirkjufell2_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Light_Kirkjufell2_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-light-kirkjufell3-mobile",
+      "name": "Kirkjufell3",
+      "theme": "light",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Light_Kirkjufell3_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Light_Kirkjufell3_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-light-land-abstract-mobile",
+      "name": "Land Abstract",
+      "theme": "light",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Light_Land_Abstract_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Light_Land_Abstract_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-light-landmannalaugar-mobile",
+      "name": "Landmannalaugar",
+      "theme": "light",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Light_Landmannalaugar_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Light_Landmannalaugar_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-light-mobile",
+      "name": "Mobile",
+      "theme": "light",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Light_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Light_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-light-reynisfjara-mobile",
+      "name": "Reynisfjara",
+      "theme": "light",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Light_Reynisfjara_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Light_Reynisfjara_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-light-skies-abstract-mobile",
+      "name": "Skies Abstract",
+      "theme": "light",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Light_Skies_Abstract_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Light_Skies_Abstract_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-light-space-abstract-mobile",
+      "name": "Space Abstract",
+      "theme": "light",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Light_Space_Abstract_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Light_Space_Abstract_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-light-thorsmork-mobile",
+      "name": "Thorsmork",
+      "theme": "light",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Light_Thorsmork_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Light_Thorsmork_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-light2-mobile",
+      "name": "Classic 2",
+      "theme": "light",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Light2_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Light2_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-light3-mobile",
+      "name": "Classic 3",
+      "theme": "light",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Light3_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Light3_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-light4-mobile",
+      "name": "Classic 4",
+      "theme": "light",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Light4_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Light4_Mobile.webp"
+    },
+    {
+      "id": "mobile-uteamup-light5-mobile",
+      "name": "Classic 5",
+      "theme": "light",
+      "width": 941,
+      "height": 1672,
+      "originalPath": "Mobile/Uteamup_Light5_Mobile.png",
+      "previewPath": "Previews/Mobile/Uteamup_Light5_Mobile.webp"
+    }
+  ]
+}
